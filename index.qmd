@@ -1,0 +1,18 @@
+---
+title: ""
+listing:
+  - id: apps-list
+    sort-ui: false
+    filter-ui: true
+    categories: true
+    contents: apps.yml
+    type: grid
+    grid-columns: 3   # número de columnas, ajusta según tu preferencia
+---
+
+<!-- Aquí se muestran mis aplicaciones desarrolladas con Shiny. -->
+
+:::{#apps-list}
+:::
+
+<!-- asd -->

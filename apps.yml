@@ -1,0 +1,59 @@
+- title: "Aplicación Uno"
+  description: "Descripción corta de la aplicación uno."
+  path: "https://appuno.com"
+  image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbiMlWHIEUBK4RCkKYEHB25h-jT0VeL23qTQ&s"
+  categories: ["análisis", "shiny"]
+
+- title: "Aplicación Dos"
+  description: "Descripción corta de la aplicación dos."
+  path: "https://appdos.com"
+  image: "https://cdn-icons-png.flaticon.com/512/8901/8901603.png"
+  categories: ["dashboard", "mapas"]
+
+- title: "Aplicación Tres"
+  description: "Descripción corta de la aplicación tres."
+  path: "https://apptres.com"
+  image: "https://rstudio.github.io/shinydashboard/images/buses.png"
+  categories: ["mapas", "visualización"]
+
+- title: "Aplicación Dos"
+  description: "Descripción corta de la aplicación dos."
+  path: "https://appdos.com"
+  image: "https://cdn-icons-png.flaticon.com/512/8901/8901603.png"
+  categories: ["dashboard", "mapas"]
+
+- title: "Aplicación Uno"
+  description: "Descripción corta de la aplicación uno."
+  path: "https://appuno.com"
+  image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbiMlWHIEUBK4RCkKYEHB25h-jT0VeL23qTQ&s"
+  categories: ["análisis", "shiny"]  
+
+- title: "Aplicación Uno"
+  description: "Descripción corta de la aplicación uno."
+  path: "https://appuno.com"
+  image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbiMlWHIEUBK4RCkKYEHB25h-jT0VeL23qTQ&s"
+  categories: ["análisis", "shiny"]
+
+- title: "Aplicación Dos"
+  description: "Descripción corta de la aplicación dos."
+  path: "https://appdos.com"
+  image: "https://cdn-icons-png.flaticon.com/512/8901/8901603.png"
+  categories: ["dashboard", "mapas"]
+
+- title: "Aplicación Tres"
+  description: "Descripción corta de la aplicación tres."
+  path: "https://apptres.com"
+  image: "https://rstudio.github.io/shinydashboard/images/buses.png"
+  categories: ["mapas", "visualización"]
+
+- title: "Aplicación Dos"
+  description: "Descripción corta de la aplicación dos."
+  path: "https://appdos.com"
+  image: "https://cdn-icons-png.flaticon.com/512/8901/8901603.png"
+  categories: ["dashboard", "mapas"]
+
+- title: "Aplicación Uno"
+  description: "Descripción corta de la aplicación uno."
+  path: "https://appuno.com"
+  image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbiMlWHIEUBK4RCkKYEHB25h-jT0VeL23qTQ&s"
+  categories: ["análisis", "shiny"]  
